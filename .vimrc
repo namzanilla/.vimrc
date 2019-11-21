@@ -20,3 +20,6 @@ nnoremap <S-Tab> <<
 
 " for insert mode
 inoremap <S-Tab> <C-d>
+
+" select text without line numbers
+:se mouse+=a
